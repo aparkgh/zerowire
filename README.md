@@ -18,6 +18,7 @@ After completing ELEC1601 and being inspired to create my own snake game in a sm
 - **USB receiver for NRF24L01+ (CH340 USB Module)**
 
 ## 🔧 **Setup Instructions**
+- unfinished :( still waiting for parts to arrive
 
 ### 1. **Wiring the Components**
 - **PAW3395 Sensor → Microcontroller**: Connect the optical sensor's data pins (SCL, SDA, etc.) to the Pico's corresponding GPIO pins.
