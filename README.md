@@ -18,5 +18,5 @@ After completing ELEC1601 and being inspired to create my own snake game in a sm
 ### 1. **Component Configuration**
 ![component configuration uml diagram](images/mouse%20component%20config.png)
 
-> ![NOTE]
+> [!NOTE]
 > A multimeter is required to tune the DC boost converter to 5V.
