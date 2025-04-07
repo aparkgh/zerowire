@@ -1,9 +1,9 @@
 # Custom Mouse
 
-After completing ELEC1601 and being inspired to create my own snake game in a small arduino project, I've decided to scale up things and build my own **wireless mouse**. I've specifically decided to utilise 2.4GHz to avoid bluetooth, and a battery charger with USB-C.
+After completing ELEC1601 and being inspired to create my own snake game in a small arduino project, I've decided to scale up things and build my own **wireless mouse**. I've specifically decided to utilise a transceiver and receiver system using 2.4GHz to avoid using bluetooth, and a battery charger with USB-C.
 
 ## ⚙️ **Components Needed**
-- **Raspberry Pi Pico** (Microcontroller)
+- **Raspberry Pi Pico**
 - **PAW3395 Optical Mouse Sensor**
 - **NRF24L01+ Transceiver**
 - **MT3608 2-24V to 5V DC-DC Boost Converter**
