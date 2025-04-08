@@ -2,15 +2,14 @@
 
 After completing ELEC1601 and being inspired to create my own snake game in a small arduino project, I've decided to scale things up and build my own **wireless mouse**. I've specifically decided to utilise a transceiver and receiver system using 2.4GHz to avoid using bluetooth, and USB-C charging.
 
-## ⚙️ **Components Needed**
+## ⚙️ **Components Used**
 - Raspberry Pi Pico
-- PAW3395 Optical Mouse Sensor
-- NRF24L01+ Transceiver
-- MT3608 2-24V to 5V DC-DC Boost Converter
-- 3.7V 1000mAh LiPo Battery (and TP4056 charger module)
-- Omron D2F-01L Mouse Switches
+- PixArt PAW3395 Sensor
+- NRF24L01+ 2.4GHz Transceiver + CH340 USB Module Receiver
+- MT3608 2-24V to 5V DC Boost Converter
+- 3.7V 1000mAh Lipo Battery + TP4056 Charger Module
+- Omron D2F-01L Switch (x2)
 - Jumper Wires
-- USB receiver for NRF24L01+ (CH340 USB Module)
 
 ## 🔧 **Setup Instructions**
 - unfinished :( still waiting for parts to arrive
