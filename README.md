@@ -5,11 +5,12 @@ After completing ELEC1601 and being inspired to creating own snake game as my fi
 ## **Components Used**
 - Raspberry Pi Pico (USB-C)
 - PixArt PAW3395 Sensor
-- NRF24L01+ 2.4GHz Transceiver + CH340 USB Module Receiver
+- NRF24L01+ Transceiver + CH340 USB Receiver
 - MT3608 2-24V to 5V DC Boost Converter
 - 3.7V 1000mAh Lipo Battery + TP4056 Charger Module
 - Omron D2F-01L Switch (x2)
 - Jumper Wires
+- 12V Multimeter
 
 ## **Setup Instructions**
 - unfinished :( still waiting for parts to arrive
