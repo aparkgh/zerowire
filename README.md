@@ -22,7 +22,7 @@ After completing ELEC1601 and being inspired to creating own snake game as my fi
 - Custom breakout board pcb for PAW3395 ordered from JLCPCB (upload gerber files from [ufan's paw3395 repository](https://github.com/ufan/paw3395_pmw3361_breakout))
 - [KiCAD](https://www.kicad.org/download/windows/) used to review PCB and schematic
 - Raspberry Pi Pico mounted (BOOTSEL) and .uf2 file uploaded (easier programming, can be downloaded [here](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html))
-- [Thonny](https://thonny.org/) used to upload nrf24l01.py driver (for wireless transceiver, can be downloaded [here](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/radio/nrf24l01))
+- [Thonny](https://thonny.org/) used to upload nrf24l01.py driver (for wireless transceiver, can be downloaded [here](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/radio/nrf24l01) or in the [repository](https://github.com/aparkgh/custom-mouse/blob/main/nrf24l01.py))
 
 ## **Useful Links:**
 - [NRF24L01 Pinout](https://howtomechatronics.com/wp-content/uploads/2017/02/NRF24L01-Pinout-NRF24L01-PA-LNA-.png)
