@@ -23,7 +23,7 @@ After completing ELEC1601 and being inspired to creating own snake game as my fi
 - [KiCAD](https://www.kicad.org/download/windows/) used to review PCB and schematic
 - Raspberry Pi Pico mounted (BOOTSEL) and .uf2 file uploaded (easier programming, can be downloaded [here](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html))
 - [Thonny](https://thonny.org/) used to upload nrf24l01.py driver (for wireless transceiver, can be downloaded [here](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/radio/nrf24l01) or in the repo files)
-- ![image](https://github.com/user-attachments/assets/0a5cffbc-dedd-480a-b61d-fe38005bae28)
+- Bought a sensor with an LM19-LSI lens; ufan's breakout board layered in between sensor and lens ![image](https://github.com/user-attachments/assets/0a5cffbc-dedd-480a-b61d-fe38005bae28)
 
 
 ## **Useful Links:**
