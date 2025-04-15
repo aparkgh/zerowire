@@ -21,7 +21,7 @@ After completing ELEC1601 and being inspired to creating own snake game as my fi
 ## **Steps taken:**
 - Custom breakout board pcb for PAW3395 ordered (credit to [ufan's breakout board](https://github.com/ufan/paw3395_pmw3361_breakout))
 - [KiCAD](https://www.kicad.org/download/windows/) used to review PCB and schematic
-- Raspberry Pi Pico mounted (BOOTSEL) and .uf2 file uploaded (easier programming, can be downloaded [here](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html))
+- Raspberry Pi Pico mounted (BOOTSEL) and .uf2 file uploaded (easier programming, can be downloaded [here](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html) or in the repo files))
 - [Thonny](https://thonny.org/) used to upload nrf24l01.py driver (for wireless transceiver, can be downloaded [here](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/radio/nrf24l01) or in the repo files)
 - Bought a sensor with an LM19-LSI lens; ufan's breakout board layered in between sensor and lens ![exploded view of assembly with lm19-lsi lens](images/paw3395dm-t6qu%20exploded%20view.png)
 
