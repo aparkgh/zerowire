@@ -1,6 +1,6 @@
 # Custom Mouse
 
-After completing ELEC1601 and being inspired to creating own snake game as my first physical microcontroller (arduino) project, I've decided to scale things up and build my own **wireless mouse**. I've specifically decided to utilise a transceiver and receiver system using 2.4GHz to avoid using bluetooth, and incorporated USB-C charging.
+After completing ELEC1601 and being inspired to creating own snake game as my first physical microcontroller (arduino) project, I've decided to scale things up and build my own **wireless mouse**. I've specifically decided to utilise a transceiver and receiver system using 2.4GHz[^1], and incorporated USB-C charging[^2].
 
 ## **Components Used**
 - Raspberry Pi Pico (USB-C)
@@ -29,3 +29,6 @@ After completing ELEC1601 and being inspired to creating own snake game as my fi
 - [Raspberry Pi Pico Pinout](https://www.raspberrypi.com/documentation/microcontrollers/images/pico-pinout.svg)
 - [PixArt PAW3395 Sensor Datasheet](https://www.codico.com/en/mpattachment/file/download/id/1236/) (contains assembly and schematic)
 - [Pricesheet](https://1drv.ms/x/c/81566783f4b27a85/Eb886e1THZZElGMRDwNFMZEBl47CX9LvK6eldiMpxhTBGg?e=1K7VTB)
+
+[^1]: Deciding between Bluetooth and 2.4Ghz RF was simple— Bluetooth pairing actually uses 2.4GHz frequency as well; it wouldn't require a dongle and is slightly more efficient when it comes to power. However, using 2.4GHz RF means having a much shorter latency (from about 100-200ms to 1ms), greater connection range, less general interference and easier pairing.
+[^2]: The superior connector. Deciding between USB-C and Micro USB was trivial— USB-C is reversible, supports higher USB versions and power delivery, greater durability, faster data transfer. Generally USB-C is more expensive than Micro USB, however the cost difference was negligible.
