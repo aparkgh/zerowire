@@ -12,11 +12,11 @@ After completing ELEC1601 and being inspired to creating own snake game as my fi
 - Jumper Wires
 - 12V Multimeter
 
-### 1. **Component Configuration**
-![component configuration uml diagram](images/mouse%20component%20config.png)
-
 > [!NOTE]
 > A multimeter is required to tune the DC boost converter to 5V.
+> 
+### 1. **Component Configuration**
+![component configuration uml diagram](images/mouse%20component%20config.png)
 
 ## **Steps taken:**
 - Custom breakout board pcb for PAW3395 ordered from JLCPCB (upload gerber files from [ufan's paw3395 repository](https://github.com/ufan/paw3395_pmw3361_breakout))
