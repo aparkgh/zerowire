@@ -12,6 +12,12 @@ After completing ELEC1601 and being inspired to creating own snake game as my fi
 - Jumper Wires
 - 12V Multimeter
 
+### 1. **Component Configuration**
+![component configuration uml diagram](images/mouse%20component%20config.png)
+
+> [!NOTE]
+> A multimeter is required to tune the DC boost converter to 5V.
+
 ## **Steps taken:**
 - Custom breakout board pcb for PAW3395 ordered from JLCPCB (upload gerber files from [ufan's paw3395 repository](https://github.com/ufan/paw3395_pmw3361_breakout))
 - [KiCAD](https://www.kicad.org/download/windows/) used to review PCB and schematic
@@ -22,9 +28,3 @@ After completing ELEC1601 and being inspired to creating own snake game as my fi
 - [NRF24L01 Pinout](https://howtomechatronics.com/wp-content/uploads/2017/02/NRF24L01-Pinout-NRF24L01-PA-LNA-.png)
 - [Raspberry Pi Pico Pinout](https://www.raspberrypi.com/documentation/microcontrollers/images/pico-pinout.svg)
 - [PixArt PAW3395 Sensor Datasheet](https://www.codico.com/en/mpattachment/file/download/id/1236/) (contains assembly and schematic)
-
-### 1. **Component Configuration**
-![component configuration uml diagram](images/mouse%20component%20config.png)
-
-> [!NOTE]
-> A multimeter is required to tune the DC boost converter to 5V.
