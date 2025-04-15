@@ -28,3 +28,4 @@ After completing ELEC1601 and being inspired to creating own snake game as my fi
 - [NRF24L01 Pinout](https://howtomechatronics.com/wp-content/uploads/2017/02/NRF24L01-Pinout-NRF24L01-PA-LNA-.png)
 - [Raspberry Pi Pico Pinout](https://www.raspberrypi.com/documentation/microcontrollers/images/pico-pinout.svg)
 - [PixArt PAW3395 Sensor Datasheet](https://www.codico.com/en/mpattachment/file/download/id/1236/) (contains assembly and schematic)
+- [Pricesheet](https://1drv.ms/x/c/81566783f4b27a85/Eb886e1THZZElGMRDwNFMZEBl47CX9LvK6eldiMpxhTBGg?e=1K7VTB)
