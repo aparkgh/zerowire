@@ -12,8 +12,10 @@ After completing ELEC1601 and being inspired to creating own snake game as my fi
 - Jumper Wires
 - 12V Multimeter
 
-## **Setup Instructions**
-- unfinished :( still waiting for parts to arrive
+## **Steps taken:**
+- Custom breakout board pcb for PAW3395 ordered from JLCPCB (upload gerber files from [ufan's git repo](https://github.com/ufan/paw3395_pmw3361_breakout))
+- KiCAD used to review PCB and schematic
+- Raspberry Pi Pico mounted (BOOTSEL) and .uf2 file uploaded (easier programming, can be downloaded [here](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)) 
 
 ### 1. **Component Configuration**
 ![component configuration uml diagram](images/mouse%20component%20config.png)
