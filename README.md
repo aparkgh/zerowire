@@ -1,6 +1,30 @@
-# Custom Mouse
+<h1 align="center">
+      <img src="https://images.vexels.com/media/users/3/325937/isolated/preview/f3221834ed60ef29b8f0b2f37a708386-blue-computer-mouse-icon.png" width="96px" height="96px" />
+      <br>
 
-After completing ELEC1601 and being inspired to creating own snake game as my first physical microcontroller (arduino) project, I've decided to scale things up and build my own **wireless mouse**. I've specifically decided to utilise USB-C charging,[^1] and a transceiver / receiver system using 2.4GHz Radio.[^2]
+ZeroWire
+
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="600px" /> <br>
+
+  <div align="center">
+
+  <div align="center">
+   <p></p>
+      <a = href="https://nixos.org">
+      <img src="https://img.shields.io/badge/MicroPython-stable-blue.svg?style=for-the-badge&labelColor=303446&logo=MicroPython&logoColor=white&color=91D7E3">
+      <img src="https://img.shields.io/badge/Raspberry%20Pi%20Pico-RP2040-green?style=for-the-badge&labelColor=303446&logo=raspberrypi&color=91D7E3">
+    </a>
+    
+   <br>
+</div>
+</h1>
+<p align=center>Wireless 2.4GHz Mouse</p>
+
+---
+
+<br>
+</div>
+After completing ELEC1601 and being inspired to create my [own project](https://github.com/aparkgh/Snake) using a microcontroller (arduino), I've decided to scale things up and build my own **wireless mouse**. I've specifically decided to utilise USB-C charging,[^1] and a transceiver / receiver system using 2.4GHz Radio.[^2]
 
 ## **Components Used**
 - Raspberry Pi Pico (USB-C)
