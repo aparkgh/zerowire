@@ -36,8 +36,8 @@ After completing ELEC1601 and being inspired to creating own snake game as my fi
 
 ## **Complications:**
 - Getting started. Having almost no background knowledge in any of the components or micropython, I had to scrounge the internet for guides online. I purposely avoided YouTube or copying any existing projects so that I would be learning and problem solving through my own unique build. After forming a foundation, I then created a UML diagram of how all of the components would be wired together and an excel pricesheet tracking all gross expenses so that anyone attempting to recreate the project would be well aware of how much everything costs.
-- Mounting the Raspberry Pi Pico using BOOTSEL requires a cable which transfers data. Majority of the cables I owned only supported charging, with onle one capable of data transfer.
-- Having to find a custom PCB for the PAW3395 sensor, and then a manufacturer to print and ship inexpensively, as it requires a breakout board to be in between the sensor and lens
+- Mounting the Raspberry Pi Pico using BOOTSEL requires a cable which transfers data. Unbeknownst to me at the time, the majority of the cables I owned only supported charging, with only one of them capable of data transfer.
+- Having to find a custom PCB for the PAW3395 sensor, and then a manufacturer to print and ship it inexpensively, as it requires a breakout board to be in between the sensor and lens.
 
 [^1]: The superior connector. Deciding between USB-C and Micro USB was trivial— USB-C is reversible, supports higher USB versions and power delivery, greater durability, faster data transfer. Generally USB-C is more expensive than Micro USB, however the cost difference was negligible.
 [^2]: Deciding between Bluetooth and 2.4Ghz RF was simple— Bluetooth pairing actually uses 2.4GHz frequency as well; it wouldn't require a dongle and is slightly more efficient when it comes to power. However, using 2.4GHz RF means having a much shorter latency (from about 100-200ms to 1ms), greater connection range, less general interference and easier pairing- and ultimately I went with 2.4GHz RF.
