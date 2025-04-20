@@ -32,7 +32,7 @@ After completing ELEC1601 and being inspired to creating own snake game as my fi
 - [Pricesheet](https://1drv.ms/x/c/81566783f4b27a85/Eb886e1THZZElGMRDwNFMZEBl47CX9LvK6eldiMpxhTBGg?e=1K7VTB)
 
 ## **Things that went well:**
-- Finding cheap general components. Aliexpress hosts a plethora of electronics for relatively inexpensive prices (including, shipping) despite the small caveat of long shipping times.
+- Finding cheap general components. Aliexpress hosts a plethora of electronics for relatively inexpensive prices, despite the small caveat of longer shipping times.
 
 ## **Complications:**
 - Getting started. Having almost no background knowledge in any of the components or micropython, I had to scrounge the internet for guides online. I purposely avoided YouTube or copying any existing projects so that I would be learning and problem solving through my own unique build. After forming a foundation, I then created a UML diagram of how all of the components would be wired together and an excel pricesheet tracking all gross expenses so that anyone attempting to recreate the project would be well aware of how much everything costs.
