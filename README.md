@@ -18,7 +18,7 @@ ZeroWire
    <br>
 </div>
 </h1>
-<p align=center>Wireless 2.4GHz Mouse</p>
+<p align=center>Fully custom wireless 2.4GHz USB HID mouse</p>
 
 ---
 
