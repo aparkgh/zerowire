@@ -24,6 +24,7 @@ ZeroWire
 
 <br>
 </div>
+
 After completing ELEC1601 and being inspired to create my [own project](https://github.com/aparkgh/Snake) using a microcontroller (arduino), I've decided to scale things up and build my own **wireless mouse**. I've specifically decided to utilise USB-C charging,[^1] and a transceiver / receiver system using 2.4GHz Radio.[^2]
 
 ## **Components Used**
