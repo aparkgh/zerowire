@@ -15,7 +15,7 @@ ZeroWire
 
 ## **Components Used**
 > [!NOTE]
-> A multimeter is required to tune the DC boost converter to 5V.
+> **Note:** A multimeter is required to tune the DC boost converter to 5V.
 - Raspberry Pi Pico (USB-C)
 - PixArt PAW3395 Sensor
 - NRF24L01 Transceiver + CH340 USB Receiver
