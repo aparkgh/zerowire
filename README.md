@@ -1,34 +1,25 @@
 <h1 align="center">
       <!-- logo credit: https://www.vexels.com/png-svg/preview/325937/blue-computer-mouse-icon -->
       <img src="https://images.vexels.com/media/users/3/325937/isolated/preview/f3221834ed60ef29b8f0b2f37a708386-blue-computer-mouse-icon.png" width="96px" height="96px" />
-      <br>
 
 ZeroWire
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="600px" /> <br>
-
-  <div align="center">
-
-  <div align="center">
-   <p></p>
-      <a = href="https://nixos.org">
-      <img src="https://img.shields.io/badge/MicroPython-stable-blue.svg?style=for-the-badge&labelColor=303446&logo=MicroPython&logoColor=white&color=91D7E3">
-      <img src="https://img.shields.io/badge/Raspberry%20Pi%20Pico-RP2040-green?style=for-the-badge&labelColor=303446&logo=raspberrypi&color=91D7E3">
-    </a>
-    
-   <br>
+<div align="center">
+            <a href="https://micropython.org/">
+                  <img src="https://img.shields.io/badge/MicroPython-stable-blue.svg?style=for-the-badge&labelColor=303446&logo=MicroPython&logoColor=white&color=91D7E3" >
+            </a>
+            <a href="https://www.raspberrypi.com/">
+                  <img src="https://img.shields.io/badge/Raspberry%20Pi%20Pico-RP2040-green?style=for-the-badge&labelColor=303446&logo=raspberrypi&color=91D7E3" >
+            </a>
 </div>
 </h1>
-<p align=center>Custom-built 2.4GHz wireless USB HID mouse</p>
 
----
-
-<br>
-</div>
-
-After completing ELEC1601 and being inspired to create my [own project](https://github.com/aparkgh/Snake) using a microcontroller (arduino), I've decided to scale things up and build my own **wireless mouse**. I've specifically decided to utilise USB-C charging,[^1] and a transceiver / receiver system using 2.4GHz Radio.[^2]
+**ZeroWire** is a custom-built wireless USB HID mouse with USB-C charging,[^1] and a transceiver / receiver system using 2.4GHz Radio.[^2]
 
 ## **Components Used**
+> [!NOTE]
+> A multimeter is required to tune the DC boost converter to 5V.
 - Raspberry Pi Pico (USB-C)
 - PixArt PAW3395 Sensor
 - NRF24L01 Transceiver + CH340 USB Receiver
@@ -37,9 +28,6 @@ After completing ELEC1601 and being inspired to create my [own project](https://
 - Omron D2F-01L Switch (x2)
 - Jumper Wires
 - 12V Multimeter
-
-> [!NOTE]
-> A multimeter is required to tune the DC boost converter to 5V.
 
 ### 1. **Component Configuration**
 ![component configuration uml diagram](images/mouse%20component%20config.png)
