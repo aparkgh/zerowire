@@ -11,7 +11,7 @@ ZeroWire
 </div>
 </h1>
 
-**ZeroWire** is a custom-built wireless USB HID mouse with USB-C charging,[^1] and a transceiver / receiver system using 2.4GHz Radio.[^2]
+**ZeroWire** is a custom-built wireless USB HID mouse featuring USB-C charging[^1] and a 2.4GHz radio-based transceiver/receiver system[^2].
 
 ## **Components Used**
 > [!NOTE]
@@ -42,12 +42,12 @@ ZeroWire
 - [Pricesheet](https://1drv.ms/x/c/81566783f4b27a85/Eb886e1THZZElGMRDwNFMZEBl47CX9LvK6eldiMpxhTBGg?e=1K7VTB)
 
 ## **Things that went well:**
-- Finding cheap general components. Aliexpress hosts a plethora of electronics for relatively inexpensive prices, despite the small caveat of longer shipping times.
+- AliExpress offers a wide range of electronic components at relatively low prices, making it a great resource for budget-conscious projects. The caveat, however, is the longer shipping times, which can delay progress if not planned for in advance.
 
 ## **Complications:**
-- Getting started. Having almost no background knowledge in any of the components or micropython, I had to scrounge the internet for guides online. I purposely avoided YouTube or copying any existing projects so that I would be learning and problem solving through my own unique build. After forming a foundation, I then created a UML diagram of how all of the components would be wired together and an excel pricesheet tracking all gross expenses so that anyone attempting to recreate the project would be well aware of how much everything costs.
-- Mounting the Raspberry Pi Pico using BOOTSEL requires a cable which transfers data. Unbeknownst to me at the time, the majority of the cables I owned only supported charging, with only one of them capable of data transfer.
-- Having to find a custom PCB for the PAW3395 sensor, and then a manufacturer to print and ship it inexpensively, as it requires a breakout board to be in between the sensor and lens.
+- With almost no prior knowledge of the components or MicroPython, I turned to online guides to build a foundational understanding. I deliberately avoided YouTube tutorials and refrained from copying existing projects, choosing instead to learn and problem-solve through building a unique solution from scratch. Once I had a basic grasp of the system, I created a UML diagram to map how all the components would be wired together. Additionally, I maintained an Excel price sheet to track all expenses, ensuring that anyone looking to replicate the project would have a clear understanding of the total cost involved.
+- Mounting the Raspberry Pi Pico via BOOTSEL mode requires a USB cable that supports data transfer. Unbeknownst to me at the time, most of the cables I owned were charge-only, with only one capable of transferring data. This initially led to confusion during setup, as the Pico wasn’t being detected by my computer.
+- Midway through the project, I found that I needed to find a custom PCB for the PAW3395 sensor, as it requires a breakout board to sit between the sensor and the lens for proper alignment and functionality. This involved sourcing a compatible PCB design and then finding a manufacturer who could print and ship it affordably, adding another layer of complexity to the build.
 
-[^1]: USB-C is reversible, supports higher USB versions and power delivery, has greater durability, and supports faster data transfer. USB-C boards are generally more expensive than Micro USB, however the cost difference is negligible and justified by the improved feature set.
-[^2]: Bluetooth pairing is slightly more power efficient and wouldn't require a dongle, and actually uses 2.4GHz frequency as well. However, using 2.4GHz RF means having a much shorter latency (from about 100-200ms to 1ms), a greater connection range and easier pairing.
+[^1]: USB-C is reversible, supports higher USB versions and power delivery, offers greater durability, and enables faster data transfer. While USB-C boards are generally more expensive than Micro USB, the cost difference is negligible and justified by the enhanced feature set.
+[^2]: Bluetooth pairing is slightly more power-efficient and doesn’t require a dongle, and it also operates on the 2.4GHz frequency. However, using 2.4GHz RF (proprietary wireless) offers significantly lower latency (typically reduced from 100–200 ms to around 1 ms), a longer connection range, and simpler pairing for dedicated use cases.
