@@ -1,17 +1,13 @@
 <h1 align="center">
       <!-- logo credit: https://www.vexels.com/png-svg/preview/325937/blue-computer-mouse-icon -->
-      <img src="https://images.vexels.com/media/users/3/325937/isolated/preview/f3221834ed60ef29b8f0b2f37a708386-blue-computer-mouse-icon.png" width="96px" height="96px" />
+      <img src="https://images.vexels.com/media/users/3/325937/isolated/preview/f3221834ed60ef29b8f0b2f37a708386-blue-computer-mouse-icon.png" width="96px" height="96px"/>
 
 ZeroWire
 
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="600px" /> <br>
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="600px"/> <br>
 <div align="center">
-            <a href="https://micropython.org/">
-                  <img src="https://img.shields.io/badge/MicroPython-stable-blue.svg?style=for-the-badge&labelColor=303446&logo=MicroPython&logoColor=white&color=91D7E3" >
-            </a>
-            <a href="https://www.raspberrypi.com/">
-                  <img src="https://img.shields.io/badge/Raspberry%20Pi%20Pico-RP2040-green?style=for-the-badge&labelColor=303446&logo=raspberrypi&color=91D7E3" >
-            </a>
+            <a href="https://micropython.org/"><img src="https://img.shields.io/badge/MicroPython-stable-blue.svg?style=for-the-badge&labelColor=303446&logo=micropython&logoColor=white&color=b7bdf8&logoColor=cad3f5"></a>
+            <a href="https://www.raspberrypi.com/"><img src="https://img.shields.io/badge/Raspberry%20Pi%20Pico-RP2040-green?style=for-the-badge&labelColor=363a4f&logo=raspberrypi&color=c6a0f6&logoColor=cad3f5"></a>
 </div>
 </h1>
 
