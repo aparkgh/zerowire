@@ -49,5 +49,5 @@ ZeroWire
 - Mounting the Raspberry Pi Pico using BOOTSEL requires a cable which transfers data. Unbeknownst to me at the time, the majority of the cables I owned only supported charging, with only one of them capable of data transfer.
 - Having to find a custom PCB for the PAW3395 sensor, and then a manufacturer to print and ship it inexpensively, as it requires a breakout board to be in between the sensor and lens.
 
-[^1]: The superior connector. USB-C is reversible, supports higher USB versions and power delivery, has greater durability, and supports faster data transfer. USB-C boards are generally more expensive than Micro USB, however the cost difference is negligible and justified by the improved feature set.
+[^1]: USB-C is reversible, supports higher USB versions and power delivery, has greater durability, and supports faster data transfer. USB-C boards are generally more expensive than Micro USB, however the cost difference is negligible and justified by the improved feature set.
 [^2]: Bluetooth pairing is slightly more power efficient and wouldn't require a dongle, and actually uses 2.4GHz frequency as well. However, using 2.4GHz RF means having a much shorter latency (from about 100-200ms to 1ms), a greater connection range and easier pairing.
