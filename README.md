@@ -33,7 +33,7 @@ ZeroWire
 - [KiCAD](https://www.kicad.org/download/windows/) used to review PCB and schematic
 - Raspberry Pi Pico mounted (BOOTSEL) and .uf2 file uploaded (easier programming, can be downloaded [here](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html) or in [/files](https://github.com/aparkgh/custom-mouse/tree/main/files)))
 - [Thonny](https://thonny.org/) used to upload nrf24l01.py driver (for wireless transceiver, can be downloaded [here](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/radio/nrf24l01) or in [/files](https://github.com/aparkgh/custom-mouse/tree/main/files))
-- ufan's breakout board layered in between sensor and LM19-LSI lens ![exploded view of assembly with lm19-lsi lens](images/paw3395dm-t6qu%20exploded%20view.png)
+- ufan's breakout board layered in between sensor and LM19-LSI lens
 
 ## **Useful Links:**
 - [NRF24L01 Pinout](https://howtomechatronics.com/wp-content/uploads/2017/02/NRF24L01-Pinout-NRF24L01-PA-LNA-.png)
