@@ -38,7 +38,7 @@ ZeroWire
 ## **Useful Links:**
 - [NRF24L01 Pinout](https://howtomechatronics.com/wp-content/uploads/2017/02/NRF24L01-Pinout-NRF24L01-PA-LNA-.png)
 - [Raspberry Pi Pico Pinout](https://www.raspberrypi.com/documentation/microcontrollers/images/pico-pinout.svg)
-- [PixArt PAW3395 Sensor Datasheet](https://www.protodrive.xyz/assets/files/2024-10-29/1730218877-29929-paw3395dm-t6qu-ds-v0.pdf) (contains assembly and schematic)
+- [PixArt PAW3395 Sensor Datasheet](CAN'T DISCLOSE) (contains assembly and schematic)
 - [Pricesheet](https://1drv.ms/x/c/81566783f4b27a85/Eb886e1THZZElGMRDwNFMZEBl47CX9LvK6eldiMpxhTBGg?e=1K7VTB)
 
 ## **Things that went well:**
@@ -48,6 +48,7 @@ ZeroWire
 - With almost no prior knowledge of the components or MicroPython, I turned to online guides to build a foundational understanding. I deliberately avoided YouTube tutorials and refrained from copying existing projects, choosing instead to learn and problem-solve through building a unique solution from scratch. Once I had a basic grasp of the system, I created a UML diagram to map how all the components would be wired together. Additionally, I maintained an Excel price sheet to track all expenses, ensuring that anyone looking to replicate the project would have a clear understanding of the total cost involved.
 - Mounting the Raspberry Pi Pico via BOOTSEL mode requires a USB cable that supports data transfer. Unbeknownst to me at the time, most of the cables I owned were charge-only, with only one capable of transferring data. This initially led to confusion during setup, as the Pico wasn’t being detected by my computer.
 - Midway through the project, I found that I needed to find a custom PCB for the PAW3395 sensor, as it requires a breakout board to sit between the sensor and the lens for proper alignment and functionality. This involved sourcing a compatible PCB design and then finding a manufacturer who could print and ship it affordably, adding another layer of complexity to the build.
+- Obtaining the datasheet for the PAW3395DM-T6QU mouse sensor proved more challenging than expected. To retrieve movement data, I needed to initialize SPI communication between the sensor and the Raspberry Pi Pico. However, the technical details required for this process—such as the SPI initialization sequence and power-on procedure—were only available in the official datasheet. Since the document is confidential, I had to contact PixArt directly, sign a non-disclosure agreement (NDA), and as a result, I am unable to publicly share its contents, which include critical information like assembly guidelines and schematic references.
 
 [^1]: USB-C is reversible, supports higher USB versions and power delivery, offers greater durability, and enables faster data transfer. While USB-C boards are generally more expensive than Micro USB, the cost difference is negligible and justified by the enhanced feature set.
 [^2]: Bluetooth pairing is slightly more power-efficient and doesn’t require a dongle, and it also operates on the 2.4GHz frequency. However, using 2.4GHz RF (proprietary wireless) offers significantly lower latency (typically reduced from 100–200 ms to around 1 ms), a longer connection range, and simpler pairing for dedicated use cases.
