@@ -35,7 +35,10 @@ ZeroWire
 - [Thonny](https://thonny.org/) used to upload nrf24l01.py driver (for wireless transceiver, can be downloaded [here](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/radio/nrf24l01) or in [/files](https://github.com/aparkgh/custom-mouse/tree/main/files))
 - ufan's breakout board layered in between sensor and LM19-LSI lens
 - Shell files downloaded and reviewed in [TinkerCAD](https://www.tinkercad.com/dashboard) (can be downloaded [here](https://thangs.com/designer/NPZ/3d-model/Lightweight%20Mouse%20Shell%20Steelseries%20Sensei%20310%20-988064) or in [/files/shell%20assets](https://github.com/aparkgh/zerowire/tree/main/files/shell%20assets))
-- ![image](https://github.com/user-attachments/assets/d8314dc2-3823-4a1b-87c6-2177183de617)
+
+Top | Front + Right | Back + Left
+:-:|:-:|:-:
+<img src="images/top.png" width="320"/> | <img src="images/frontright.png" width="320"/> | <img src="images/backleft.png" width="320"/>
 
 
 ## **Useful Links:**
