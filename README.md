@@ -34,11 +34,15 @@ ZeroWire
 - Raspberry Pi Pico mounted (BOOTSEL) and .uf2 file uploaded (easier programming, can be downloaded [here](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html) or in [/files](https://github.com/aparkgh/custom-mouse/tree/main/files)))
 - [Thonny](https://thonny.org/) used to upload nrf24l01.py driver (for wireless transceiver, can be downloaded [here](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/radio/nrf24l01) or in [/files](https://github.com/aparkgh/custom-mouse/tree/main/files))
 - ufan's breakout board layered in between sensor and LM19-LSI lens
+- Shell files downloaded and reviewed in [TinkerCAD](https://www.tinkercad.com/dashboard)
+- ![image](https://github.com/user-attachments/assets/d8314dc2-3823-4a1b-87c6-2177183de617)
+
 
 ## **Useful Links:**
 - [NRF24L01 Pinout](https://howtomechatronics.com/wp-content/uploads/2017/02/NRF24L01-Pinout-NRF24L01-PA-LNA-.png)
 - [Raspberry Pi Pico Pinout](https://www.raspberrypi.com/documentation/microcontrollers/images/pico-pinout.svg)
 - [Pricesheet](https://1drv.ms/x/c/81566783f4b27a85/Eb886e1THZZElGMRDwNFMZEBl47CX9LvK6eldiMpxhTBGg?e=1K7VTB)
+- [Shell](https://thangs.com/designer/NPZ/3d-model/Lightweight%20Mouse%20Shell%20Steelseries%20Sensei%20310%20-988064)
 
 ## **Things that went well:**
 - AliExpress offers a wide range of electronic components at relatively low prices, making it a great resource for budget-conscious projects. The caveat, however, is the longer shipping times, which can delay progress if not planned for in advance.
