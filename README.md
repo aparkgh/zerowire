@@ -59,10 +59,10 @@ This project would not have been possible without the support of the following p
 - Ali ([@optimumtech](https://www.youtube.com/@optimumtech)), for inspiring the project idea and the mouse shell design.
 - Andrew ([@rudh](https://www.printables.com/@rudh)), for designing the mouse shell 3D model.
 - Zhou ([@ufan](https://github.com/ufan)), for designing the custom PCB.
-- PixArt, for supply and guidance on sensor configuration.
-- The University of Sydney (USYD), for offering free 3D printing and consultation services.
-- ChatGPT, for assistance with general project management.
-- AliExpress and eBay, for providing affordable electronic components.
+- [PixArt](https://www.pixart.com/), for supply and guidance on sensor configuration.
+- The University of Sydney ([USYD](https://www.sydney.edu.au/)), for offering free 3D printing and consultation services.
+- [ChatGPT](https://chatgpt.com/), for assistance with general project management.
+- [AliExpress](https://www.aliexpress.com/) and [eBay](https://www.ebay.com.au/), for providing affordable electronic components.
 
 
 [^1]: USB-C is reversible, supports higher USB versions and power delivery, offers greater durability, and enables faster data transfer. While USB-C boards are generally more expensive than Micro USB, the cost difference is negligible and justified by the enhanced feature set.
