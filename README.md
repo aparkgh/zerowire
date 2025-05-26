@@ -31,7 +31,7 @@ ZeroWire
 ## **Steps taken:**
 - Custom breakout board pcb for PAW3395 ordered (credit to [ufan's breakout board](https://github.com/ufan/paw3395_pmw3361_breakout))
 - [KiCAD](https://www.kicad.org/download/windows/) used to review PCB and schematic
-- Raspberry Pi Pico mounted (BOOTSEL) and .uf2 file uploaded (easier programming, can be downloaded [here](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html) or in [/files](https://github.com/aparkgh/custom-mouse/tree/main/files)))
+- Raspberry Pi Pico mounted (BOOTSEL) and .uf2 file uploaded (easier programming, can be downloaded [here](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html) or in [/files](https://github.com/aparkgh/custom-mouse/tree/main/files))
 - [Thonny](https://thonny.org/) used to upload nrf24l01.py driver (for wireless transceiver, can be downloaded [here](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/radio/nrf24l01) or in [/files](https://github.com/aparkgh/custom-mouse/tree/main/files))
 - ufan's breakout board layered in between sensor and LM19-LSI lens
 - Shell files downloaded and reviewed in [TinkerCAD](https://www.tinkercad.com/dashboard) (can be downloaded [here](https://www.printables.com/model/979182-lightweight-zeromouse-inspired-logitech-mx-mouse-m/files) or in [/files/shell%20assets](https://github.com/aparkgh/zerowire/tree/main/files))
