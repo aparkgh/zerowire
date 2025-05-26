@@ -54,5 +54,14 @@ Top | Back + Left | Front + Right
 - Midway through the project, I found that I needed to find a custom PCB for the PAW3395 sensor, as it requires a breakout board to sit between the sensor and the lens for proper alignment and functionality. This involved sourcing a compatible PCB design and then finding a manufacturer who could print and ship it affordably, adding another layer of complexity to the build.
 - Obtaining the datasheet for the sensor proved more challenging than expected. To retrieve movement data, I needed to initialize SPI communication between the sensor and the Raspberry Pi Pico. However, the technical details required for this process—such as the SPI initialization sequence and power-on procedure—were only available in the official datasheet. Since the document is confidential, I had to contact PixArt directly, sign a non-disclosure agreement (NDA), and as a result, I am unable to publicly share its contents, which include critical information like assembly guidelines and schematic references.
 
+## **Acknowledgements**
+This project would not have been possible without the support of the following people and organisations:
+- Andrew ([@rudh](https://www.printables.com/@rudh)), for designing the mouse shell.
+- PixArt, for guidance on sensor configuration.
+- The University of Sydney (USYD), for offering free 3D printing and consultation services.
+- ChatGPT, for assistance with project management.
+- AliExpress, for providing affordable electronic components.
+
+
 [^1]: USB-C is reversible, supports higher USB versions and power delivery, offers greater durability, and enables faster data transfer. While USB-C boards are generally more expensive than Micro USB, the cost difference is negligible and justified by the enhanced feature set.
 [^2]: Bluetooth pairing is slightly more power-efficient and doesn’t require a dongle, and it also operates on the 2.4GHz frequency. However, using 2.4GHz RF (proprietary wireless) offers significantly lower latency (typically reduced from 100–200 ms to around 1 ms), a longer connection range, and simpler pairing for dedicated use cases.
