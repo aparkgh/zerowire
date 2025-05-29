@@ -24,8 +24,6 @@ ZeroWire is the successor of [Infinitywire](https://github.com/aparkgh/infinityw
 - Tiger Ice V2 Dot Skates
 - 3.7V 1000mAh Lipo Battery + TP4056 Charger Module
 - TTC 80M Switch (x2)
-- Jumper Wires
-- 12V Multimeter
 
 ## **Project Outline:**
 - Custom Razer Viper V2 / Zeromouse V35 shell .stl downloaded and reviewed in [TinkerCAD](https://www.tinkercad.com/dashboard) and [Bambu Studio](https://bambulab.com/en/download/studio) (can be downloaded [here](https://www.printables.com/model/979182-lightweight-zeromouse-inspired-logitech-mx-mouse-m/files) or in [/files](https://github.com/aparkgh/zerowire/blob/main/files/Mouse%20Mod%20Final%20V1.stl)) NEEDS UPDATE!!!
