@@ -28,10 +28,6 @@ ZeroWire is the successor of [Infinitywire](https://github.com/aparkgh/infinityw
 - 12V Multimeter
 
 ## **Project Outline:**
-> [!NOTE]
-> **Note:** Two mice will be created. One will be a wireless mouse using 2.4Ghz RF and USB-C and one will be a wired mouse using Micro-USB.
-- Custom breakout board PCB for PAW3395 ordered (credit to [ufan's breakout board](https://github.com/ufan/paw3395_pmw3361_breakout))
-- [KiCAD](https://www.kicad.org/download/windows/) used to review PCB and schematic
 - Custom Razer Viper V2 / Zeromouse V35 shell .stl downloaded and reviewed in [TinkerCAD](https://www.tinkercad.com/dashboard) and [Bambu Studio](https://bambulab.com/en/download/studio) (can be downloaded [here](https://www.printables.com/model/979182-lightweight-zeromouse-inspired-logitech-mx-mouse-m/files) or in [/files](https://github.com/aparkgh/zerowire/blob/main/files/Mouse%20Mod%20Final%20V1.stl)) NEEDS UPDATE!!!
 - Zeromouse V35 Shell printed at Craftcloud
 
