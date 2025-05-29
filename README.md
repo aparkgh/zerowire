@@ -15,7 +15,7 @@ ZeroWire
 
 **ZeroWire** is a custom-built wireless USB HID mouse featuring USB-C charging[^1] and a 2.4GHz radio-based transceiver/receiver system[^2].
 
-ZeroWire is the successor of Infinitywire, a mouse supporting a higher quality shell, a better sensor[^3], supporting wireless connectivity.
+ZeroWire is the successor of Infinitywire, a mouse supporting a higher quality shell[^3], a better sensor[^4], having a scroll wheel, and supporting wireless connectivity.
 
 ## **Components Used**
 - Razer Viper V2 Pro
@@ -61,4 +61,5 @@ This project would not have been possible without the support of the following p
 
 [^1]: USB-C is reversible, supports higher USB versions and power delivery, offers greater durability, and enables faster data transfer. While USB-C boards are generally more expensive than Micro USB, the cost difference is negligible and justified by the enhanced feature set.
 [^2]: Bluetooth pairing is slightly more power-efficient and doesn’t require a dongle, and it also operates on the 2.4GHz frequency. However, using 2.4GHz RF (proprietary wireless) offers significantly lower latency (typically reduced from 100–200 ms to around 1 ms), a longer connection range, and simpler pairing for dedicated use cases.
-[^3]: Pixart's PAW3395DM-T6QU has 26,000 max DPI/CPI, a 650 IPS max tracking speed, and 50G of max accleration. This falls slightly behind the compared to Razer's Focus Pro 30K, which sports a 30,000 max DPI/CPI, a 750IPS max tracking speed, and 60G of max acceleration, with the addition of supporting [Smart Tracking](https://www.razer.com/au-en/razer-focus-plus-sensor#:~:text=With%20Smart%20Tracking%2C%20the%20Razer,%E2%80%94and%20accuracy%E2%80%94remains%20consistent.) and [Asymmetric Cut-Off](https://www.razer.com/au-en/razer-focus-plus-sensor#:~:text=On%20top%20of%20the%20sensor's,your%20mouse%20touches%20the%20surface.).
+[^3]: Nylon PA12 offers much better structural integrity and is significantly lighter than PLA, making it ideal for strong, lightweight parts. It’s more expensive, but the durability and performance easily justify the price difference for serious builds.
+[^4]: Pixart's PAW3395DM-T6QU has 26,000 max DPI/CPI, a 650 IPS max tracking speed, and 50G of max accleration. This falls slightly behind the compared to Razer's Focus Pro 30K, which sports a 30,000 max DPI/CPI, a 750IPS max tracking speed, and 60G of max acceleration, with the addition of supporting [Smart Tracking](https://www.razer.com/au-en/razer-focus-plus-sensor#:~:text=With%20Smart%20Tracking%2C%20the%20Razer,%E2%80%94and%20accuracy%E2%80%94remains%20consistent.) and [Asymmetric Cut-Off](https://www.razer.com/au-en/razer-focus-plus-sensor#:~:text=On%20top%20of%20the%20sensor's,your%20mouse%20touches%20the%20surface.).
