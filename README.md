@@ -14,24 +14,14 @@ ZeroWire
 **ZeroWire** is a custom-built wireless USB HID mouse featuring USB-C charging[^1] and a 2.4GHz radio-based transceiver/receiver system[^2].
 
 ## **Components Used**
-> [!NOTE]
-> **Note:** A multimeter is required to tune the DC boost converter to 5V.
 - Razer Viper V2 Pro
 - 3D printed shell
 - MX Anywhere 2 PCB
 - Tiger Ice V2 Dot Skates
-- 10 uF Capacitor (x20)
-- Raspberry Pi Pico (USB-C)
-- PixArt PAW3395DM-T6QU Optical Sensor
-- NRF24L01 Transceiver + CH340 USB Receiver
-- MT3608 2-24V to 5V DC Boost Converter
 - 3.7V 1000mAh Lipo Battery + TP4056 Charger Module
-- Omron D2F-01L Switch (x2)
+- TTC 80M Switch (x2)
 - Jumper Wires
 - 12V Multimeter
-
-### 1. **Component Configuration**
-![component configuration uml diagram](images/mouse%20component%20config.png)
 
 ## **Project Steps:**
 > [!NOTE]
