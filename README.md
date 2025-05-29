@@ -26,8 +26,9 @@ ZeroWire is the successor of [Infinitywire](https://github.com/aparkgh/infinityw
 - TTC 80M Switch (x2)
 
 ## **Project Outline:**
-- Custom Razer Viper V2 / Zeromouse V35 shell .stl downloaded and reviewed in [TinkerCAD](https://www.tinkercad.com/dashboard) and [Bambu Studio](https://bambulab.com/en/download/studio) (can be downloaded [here](https://www.printables.com/model/979182-lightweight-zeromouse-inspired-logitech-mx-mouse-m/files) or in [/files](https://github.com/aparkgh/zerowire/blob/main/files/Mouse%20Mod%20Final%20V1.stl)) NEEDS UPDATE!!!
+- Custom Razer Viper V2 Pro / Zeromouse V35 shell .stl downloaded and reviewed in [TinkerCAD](https://www.tinkercad.com/dashboard) and [Bambu Studio](https://bambulab.com/en/download/studio) (can be downloaded [here](https://www.printables.com/model/979182-lightweight-zeromouse-inspired-logitech-mx-mouse-m/files) or in [/files](https://github.com/aparkgh/zerowire/blob/main/files/Mouse%20Mod%20Final%20V1.stl)) NEEDS UPDATE!!!
 - Zeromouse V35 Shell printed at Craftcloud
+- Extract the Razer Viper V2 Pro PCB, desolder the existing switches, solder in TTC Gold 80M switches, and install the PCB into a new shell.
 
 > [!NOTE]
 > **Note:** Model photos need update!
