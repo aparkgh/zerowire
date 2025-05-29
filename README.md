@@ -55,7 +55,7 @@ Top | Back + Left | Front + Right
 This project would not have been possible without the support of the following people and organisations:
 - Ali ([@optimumtech](https://www.youtube.com/@optimumtech)), for inspiring the project idea and the mouse shell design.
 - Andrew ([@rudh](https://www.printables.com/@rudh)), for designing the mouse shell 3D model. NEEDS UPDATE!!
-- Craftcloud ([USYD](https://www.sydney.edu.au/)), for offering extremely detailed and high quality 3D printing.
+- [Craftcloud](https://craftcloud3d.com/), for offering extremely detailed and high quality 3D printing.
 - [ChatGPT](https://chatgpt.com/), for assistance with general project management.
 - [AliExpress](https://www.aliexpress.com/) and [eBay](https://www.ebay.com.au/), for providing affordable electronic components.
 
