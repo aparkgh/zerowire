@@ -13,7 +13,7 @@ ZeroWire
 
 </h1>
 
-**ZeroWire** is a custom-built wireless USB HID mouse featuring USB-C charging[^1] and a 2.4GHz radio-based transceiver/receiver system[^2].
+**ZeroWire** is a sub 25 gram custom-built wireless USB HID mouse featuring USB-C charging[^1] and a 2.4GHz radio-based transceiver/receiver system[^2].
 
 ZeroWire is the successor of [Infinitywire](https://github.com/aparkgh/infinitywire), a mouse supporting a higher quality shell[^3], a better sensor[^4], having a scroll wheel, and supporting wireless connectivity.
 
