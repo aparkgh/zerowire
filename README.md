@@ -37,7 +37,7 @@ Top | Back + Left | Front + Right
 <img src="images/top.png" width="320"/> | <img src="images/backleft.png" width="320"/> | <img src="images/frontright.png" width="320"/>
 
 ## **Useful Links:**
-- [Pricesheet](https://1drv.ms/x/c/81566783f4b27a85/Eb886e1THZZElGMRDwNFMZEBl47CX9LvK6eldiMpxhTBGg?e=1K7VTB)
+- [Pricesheet](https://1drv.ms/x/c/b223ff4b71722090/EY_Erdh6nstCnHbXl3i3DjwBDWtzVu-fAAkmfWKpaDGDGA?e=vBER1q)
 
 ## **Things that went well:**
 - AliExpress offers a wide range of electronic components at relatively low prices, making it a great resource for budget-conscious projects. The caveat, however, is the longer shipping times, which can delay progress if not planned for in advance.
